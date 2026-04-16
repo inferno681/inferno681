@@ -1,8 +1,57 @@
-- 👋 Hi, I’m @inferno681
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+# 👋 Hi, I'm Vasilii Stakrotckii
 
-<!---
-inferno681/inferno681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Python Developer focused on backend systems and automation  
+⚙️ Former engineer in gas pipeline operations (real-time systems, monitoring)
+
+---
+
+## 🧠 About Me
+
+I’m transitioning into backend development with a strong engineering background.
+
+- Experienced in **monitoring, critical systems, and operational workflows**
+- Building applications using **FastAPI, PostgreSQL, Docker**
+- Interested in **system design, scalable services, and automation**
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+Python, SQL  
+
+**Backend:**  
+FastAPI, Django  
+
+**Databases:**  
+PostgreSQL, MongoDB, Redis  
+
+**Tools & Infrastructure:**  
+Docker, Kubernetes, Nginx  
+Celery, Prometheus, Jaeger  
+
+---
+
+## 📈 Currently Learning
+
+- System design and architecture  
+- Writing production-ready backend services  
+- Improving code quality and project structure  
+
+---
+
+## 📫 Contact
+
+LinkedIn:  
+[https://www.linkedin.com/in/vasilii-stakrotckii-771a20224/](https://www.linkedin.com/in/stakrotckii/)
+
+---
+
+## ⚡ Background
+
+Worked in gas pipeline operations:
+- real-time monitoring  
+- dispatch systems  
+- critical infrastructure management  
+
+Now applying this experience to software development.
