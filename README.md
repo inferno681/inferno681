@@ -43,7 +43,7 @@ Celery, Prometheus, Jaeger
 ## 📫 Contact
 
 LinkedIn:  
-[https://www.linkedin.com/in/vasilii-stakrotckii-771a20224/](https://www.linkedin.com/in/stakrotckii/)
+[https://www.linkedin.com/in/stakrotckii/](https://www.linkedin.com/in/stakrotckii/)
 
 ---
 
