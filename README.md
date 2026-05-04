@@ -21,12 +21,12 @@ monitoring with Prometheus and Grafana.
 
 ## Tech stack
 
-**Backend:** Python, FastAPI, Django
-**Databases:** PostgreSQL, MongoDB, Redis, SQLite
-**Infrastructure:** Docker, Kubernetes, Nginx, Linux
-**Monitoring:** Prometheus, Loki, Grafana, Jaeger
-**Testing:** pytest, mypy
-**Other:** REST APIs, SSE, Celery, Git, C#, SQL
+**Backend:** Python, FastAPI, Django  
+**Databases:** PostgreSQL, MongoDB, Redis, SQLite  
+**Infrastructure:** Docker, Kubernetes, Nginx, Linux  
+**Monitoring:** Prometheus, Loki, Grafana, Jaeger  
+**Testing:** pytest, mypy  
+**Other:** REST APIs, SSE, Celery, Git, C#, SQL  
 
 ---
 
